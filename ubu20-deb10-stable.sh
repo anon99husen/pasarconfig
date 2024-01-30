@@ -33,10 +33,10 @@ clear;clear;clear
 
 # // Banner
 echo -e "${YELLOW}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
-echo -e "  Developer » BAIM࿐${YELLOW}(${NC}${green} Stable Edition ${NC}${YELLOW})${NC}"
+echo -e "  Developer » PERTAMA-X࿐${YELLOW}(${NC}${green} Stable Edition ${NC}${YELLOW})${NC}"
 echo -e "  » This Will Quick Setup VPN Server On Your Server"
-echo -e "  Pembuat : ${green}BAIM࿐® ${NC}"
-echo -e "  HAK CIPTA BAIM࿐ ${YELLOW}(${NC} 2024 ${YELLOW})${NC}"
+echo -e "  Pembuat : ${green}PERTAMA-X࿐® ${NC}"
+echo -e "  HAK CIPTA PERTAMA-X࿐ ${YELLOW}(${NC} 2024 ${YELLOW})${NC}"
 echo -e "${YELLOW}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
 echo ""
 sleep 2
