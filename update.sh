@@ -39,7 +39,7 @@ res1() {
     wget https://raw.githubusercontent.com/anon99husen/pasarconfig/VIP/menu/menu.zip
     unzip menu.zip
     chmod +x menu/*
-    mv menu/* /usr/local/sbin
+    mv menu/* /usr/local/sbin/
     rm -rf menu
     rm -rf menu.zip
     rm -rf update.sh
